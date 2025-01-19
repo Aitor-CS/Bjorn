@@ -1,7 +1,7 @@
 ****This fork is a Bjorn mod inspired by psychic type Pokémon such as Gastly, Hunter, Gengar, Mewtwo and Mew, this mod modifies the action images of the original Bjorn to give a new style, it also has a Pokémon font and changes the name indicated on the screen from Bjorn to Pokebjorn, port icons, devices, etc. have also been modified.****
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5eb4cc1-0c3d-497d-9422-1614651a84ab" alt="thumbnail_IMG_0546" width="150">
+  <img src="http://imgfz.com/i/mI5jKug.png" alt="thumbnail_GENGAR" width="150">
   <img src="http://imgfz.com/i/GFgfcWK.png" alt="pokebjorn-preview" width="150">
 </p>
 
