@@ -34,8 +34,9 @@ The e-Paper HAT display and web interface make it easy to monitor and interact w
 - **System Attacks**: Conducts brute-force attacks on various services (FTP, SSH, SMB, RDP, Telnet, SQL).
 - **File Stealing**: Extracts data from vulnerable services.
 - **User Interface**: Real-time display on the e-Paper HAT and web interface for monitoring and interaction.
+- **MOD´s CHANGES**: Pokemon skin only aesthetically modified.
 
-![Bjorn Display](https://github.com/infinition/Bjorn/assets/37984399/bcad830d-77d6-4f3e-833d-473eadd33921)
+![Bjorn Display](https://github.com/infinition/Bjorn/assets/37984399/bcad830d-77d6-4f3e-833d-473eadd33921](http://imgfz.com/i/BfAxjUJ.png)
 
 ## 🚀 Getting Started
 
@@ -148,7 +149,7 @@ The project welcomes contributions in:
 
 For **detailed information** about **contributing** process go to [Contributing Docs](CONTRIBUTING.md), [Code Of Conduct](CODE_OF_CONDUCT.md) and [Development Guide](DEVELOPMENT.md).
 
-## 📫 Contact
+## 📫 Contact Bjorn Creator (my recognition and thanks to him)
 
 - **Report Issues**: Via GitHub.
 - **Guidelines**:
@@ -159,11 +160,6 @@ For **detailed information** about **contributing** process go to [Contributing 
 - **Author**: __infinition__
 - **GitHub**: [infinition/Bjorn](https://github.com/infinition/Bjorn)
 
-## 🌠 Stargazers
-
-[![Star History Chart](https://api.star-history.com/svg?repos=infinition/bjorn&type=Date)](https://star-history.com/#infinition/bjorn&Date)
-
----
 
 ## 📜 License
 
