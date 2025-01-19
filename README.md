@@ -19,6 +19,7 @@ Bjorn is a « Tamagotchi like » sophisticated, autonomous network scanning, 
 - [Getting Started](#-getting-started)
   - [Prerequisites](#-prerequisites)
   - [Installation](#-installation)
+  - [Applying the Mod](#-aplyingthemod)
 - [Quick Start](#-quick-start)
 - [Usage Example](#-usage-example)
 - [Contributing](#-contributing)
@@ -102,7 +103,9 @@ Use my Bjorn Detector & SSH Launcher :
 ![ezgif-1-a310f5fe8f](https://github.com/user-attachments/assets/182f82f0-5c3a-48a9-a75e-37b9cfa2263a)
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1643514155/1155/pokeball.gif?1643514155">** APPLYING THE MOD **
+<img src="https://emojis.slackmojis.com/emojis/images/1643514155/1155/pokeball.gif?1643514155">
+** APPLYING THE MOD **
+#-aplyingthemod
 
 When you are connected by ssh, (I recommend Filezilla) you must overwrite the display.py file in the root path /Bjorn</p>
 The static and status folders to /Bjorn/resources/images </p>
