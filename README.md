@@ -104,7 +104,7 @@ Use my Bjorn Detector & SSH Launcher :
 
 
 <img src="https://emojis.slackmojis.com/emojis/images/1643514155/1155/pokeball.gif?1643514155">
-## Applying the mod
+## APPLYIMG THE MOD:
 
 
 When you are connected by ssh, (I recommend Filezilla) you must overwrite the display.py file in the root path /Bjorn</p>
