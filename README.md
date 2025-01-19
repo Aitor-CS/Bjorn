@@ -108,7 +108,8 @@ The Viking.TTF file in the path /Bjorn/resources/fonts</p>
 <img src="http://imgfz.com/i/6XvjSI3.png" alt="pokebjorn-ssh" width="600">
 
 Reboot the Pokejorn<p>
-</p><p>
+<a href="https://buymeacoffee.com/aitorcs" target="_blank">☕ BUY ME A COFFEE FOR MORE AWESOME MODS</a>
+
 </p><p>
 </p><p>
 </p>
