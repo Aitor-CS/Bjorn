@@ -97,6 +97,18 @@ Use my Bjorn Detector & SSH Launcher :
 
 ![ezgif-1-a310f5fe8f](https://github.com/user-attachments/assets/182f82f0-5c3a-48a9-a75e-37b9cfa2263a)
 
+
+** APPLYING THE MOD **
+
+When you are connected by ssh, (I recommend Filezilla) you must overwrite the display.py file in the root path /Bjorn
+The static and status folders to /Bjorn/resources/images 
+and
+The Viking.TTF file in the path /Bjorn/resources/fonts
+
+<img src="http://imgfz.com/i/6XvjSI3.png alt="pokebjorn-ssh" width="300">
+
+Rebbot the Pokejorn
+
 **Hmm, You still need help ?**
 For **detailed information** about **troubleshooting** go to [Troubleshooting](TROUBLESHOOTING.md)
 
