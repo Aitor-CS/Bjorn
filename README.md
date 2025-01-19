@@ -108,6 +108,9 @@ The Viking.TTF file in the path /Bjorn/resources/fonts</p>
 <img src="http://imgfz.com/i/6XvjSI3.png" alt="pokebjorn-ssh" width="300">
 
 Reboot the Pokejorn<p>
+</p><p>
+</p><p>
+</p><p>
 </p>
 **Hmm, You still need help ?**
 For **detailed information** about **troubleshooting** go to [Troubleshooting](TROUBLESHOOTING.md)
