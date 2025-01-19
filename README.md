@@ -1,14 +1,5 @@
 ****This fork is a Bjorn mod inspired by psychic type Pokémon such as Gastly, Hunter, Gengar, Mewtwo and Mew, this mod modifies the action images of the original Bjorn to give a new style, it also has a Pokémon font and changes the name indicated on the screen from Bjorn to Pokebjorn, port icons, devices, etc. have also been modified.****
 
-# <img src="https://github.com/user-attachments/assets/c5eb4cc1-0c3d-497d-9422-1614651a84ab" alt="thumbnail_IMG_0546" width="33"> Bjorn
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Status](https://img.shields.io/badge/Status-Development-blue.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[![Reddit](https://img.shields.io/badge/Reddit-Bjorn__CyberViking-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/Bjorn_CyberViking)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord)](https://discord.com/invite/B3ZH9taVfT)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5eb4cc1-0c3d-497d-9422-1614651a84ab" alt="thumbnail_IMG_0546" width="150">
   <img src="http://imgfz.com/i/GFgfcWK.png" alt="pokebjorn-preview" width="150">
