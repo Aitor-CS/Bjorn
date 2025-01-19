@@ -19,7 +19,7 @@ Bjorn is a « Tamagotchi like » sophisticated, autonomous network scanning, 
 - [Getting Started](#-getting-started)
   - [Prerequisites](#-prerequisites)
   - [Installation](#-installation)
-  - [Applying the Mod](#-aplying-the-mod)
+  - [Applying the Mod](#-applying-the-mod)
 - [Quick Start](#-quick-start)
 - [Usage Example](#-usage-example)
 - [Contributing](#-contributing)
