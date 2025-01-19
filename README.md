@@ -105,7 +105,7 @@ The static and status folders to /Bjorn/resources/images </p>
 and</p>
 The Viking.TTF file in the path /Bjorn/resources/fonts</p>
 
-<img src="http://imgfz.com/i/6XvjSI3.png" alt="pokebjorn-ssh" width="300">
+<img src="http://imgfz.com/i/6XvjSI3.png" alt="pokebjorn-ssh" width="600">
 
 Reboot the Pokejorn<p>
 </p><p>
