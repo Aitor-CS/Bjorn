@@ -100,14 +100,14 @@ Use my Bjorn Detector & SSH Launcher :
 
 <img src="https://emojis.slackmojis.com/emojis/images/1643514155/1155/pokeball.gif?1643514155">** APPLYING THE MOD **
 
-When you are connected by ssh, (I recommend Filezilla) you must overwrite the display.py file in the root path /Bjorn
-The static and status folders to /Bjorn/resources/images 
-and
-The Viking.TTF file in the path /Bjorn/resources/fonts
+When you are connected by ssh, (I recommend Filezilla) you must overwrite the display.py file in the root path /Bjorn</p>
+The static and status folders to /Bjorn/resources/images </p>
+and</p>
+The Viking.TTF file in the path /Bjorn/resources/fonts</p>
 
 <img src="http://imgfz.com/i/6XvjSI3.png" alt="pokebjorn-ssh" width="300">
 
-Rebbot the Pokejorn
+Rebbot the Pokejorn</p>
 
 **Hmm, You still need help ?**
 For **detailed information** about **troubleshooting** go to [Troubleshooting](TROUBLESHOOTING.md)
