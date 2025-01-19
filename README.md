@@ -1,8 +1,8 @@
-****This fork is a Bjorn mod inspired by psychic type Pokémon such as Gastly, Hunter, Gengar, Mewtwo and Mew, this mod modifies the action images of the original Bjorn to give a new style, it also has a Pokémon font and changes the name indicated on the screen from Bjorn to Pokebjorn, port icons, devices, etc. have also been modified.****
+***This fork is a Bjorn mod inspired by psychic type Pokémon such as Gastly, Hunter, Gengar, Mewtwo and Mew, this mod modifies the action images of the original Bjorn to give a new style, it also has a Pokémon font and changes the name indicated on the screen from Bjorn to Pokebjorn, port icons, devices, etc. have also been modified.***
+
 
 <p align="center">
-  <img src="http://imgfz.com/i/mI5jKug.png" alt="thumbnail_GENGAR" width="150">
-  <img src="http://imgfz.com/i/GFgfcWK.png" alt="pokebjorn-preview" width="150">
+  <img src="http://imgfz.com/i/BfAxjUJ.png" alt="display-preview" width="600">
 </p>
 
 Bjorn is a « Tamagotchi like » sophisticated, autonomous network scanning, vulnerability assessment, and offensive security tool designed to run on a Raspberry Pi equipped with a 2.13-inch e-Paper HAT. This document provides a detailed explanation of the project.
@@ -35,8 +35,11 @@ The e-Paper HAT display and web interface make it easy to monitor and interact w
 - **File Stealing**: Extracts data from vulnerable services.
 - **User Interface**: Real-time display on the e-Paper HAT and web interface for monitoring and interaction.
 - **MOD´s CHANGES**: Pokemon skin only aesthetically modified.
+<p align="center">
+  <img src="http://imgfz.com/i/mI5jKug.png" alt="thumbnail_GENGAR" width="150">
+  <img src="http://imgfz.com/i/GFgfcWK.png" alt="pokebjorn-preview" width="150">
+</p>
 
-<img src="http://imgfz.com/i/BfAxjUJ.png" alt="display-preview" width="600">
 
 ## 🚀 Getting Started
 
