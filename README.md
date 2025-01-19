@@ -36,7 +36,7 @@ The e-Paper HAT display and web interface make it easy to monitor and interact w
 - **User Interface**: Real-time display on the e-Paper HAT and web interface for monitoring and interaction.
 - **MOD´s CHANGES**: Pokemon skin only aesthetically modified.
 
-<img src="http://imgfz.com/i/BfAxjUJ.png" alt="display-preview" width="150">
+<img src="http://imgfz.com/i/BfAxjUJ.png" alt="display-preview" width="600">
 
 ## 🚀 Getting Started
 
